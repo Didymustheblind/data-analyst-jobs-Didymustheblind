@@ -1,2 +1,1 @@
-select Count (*)
-from data_analyst_job;
+select count (*) from data_analyst_job;
